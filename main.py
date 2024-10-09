@@ -353,9 +353,7 @@ while running:
         running = False
 
 
-
     pygame.display.update()  # Aktualisiere den Bildschirm, um die Laserkanone und die feindlichen Schiffen anzuzeigen
-
 
 # Beenden von Pygame und des Programms, wenn die Hauptschleife beendet ist
 pygame.quit()
